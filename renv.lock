@@ -1,0 +1,28 @@
+{
+  "R": {
+    "Version": "4.3.0",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://packagemanager.posit.co/cran/latest"
+      }
+    ]
+  },
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "1.0.7.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteUsername": "rstudio",
+      "RemoteRepo": "renv",
+      "RemoteRef": "main",
+      "RemoteSha": "5d0d52c395e569f7f24df4288d949cef95efca4e",
+      "RemoteHost": "api.github.com",
+      "Requirements": [
+        "utils"
+      ],
+      "Hash": "38fe3515255cc4e525f866c341217ca8"
+    }
+  }
+}
